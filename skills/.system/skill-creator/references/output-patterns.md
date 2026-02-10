@@ -12,12 +12,12 @@ Skills often need to produce structured outputs with specific formats, quality s
 
 For outputs with consistent structure, provide a template:
 
-```markdown
+````markdown
 ## Output Format: Project Proposal
 
 All project proposals should follow this structure:
 
-```
+```markdown
 # [Project Name]
 
 ## Overview
@@ -40,13 +40,13 @@ All project proposals should follow this structure:
 
 Example output:
 [Filled-in example following the template above]
-```
+````
 
 ### Structured Data Outputs
 
 For technical outputs that must be valid, specify the exact format:
 
-```markdown
+````markdown
 ## Output Format: JSON Configuration
 
 All configuration files must be valid JSON and include:
@@ -66,7 +66,7 @@ All configuration files must be valid JSON and include:
 
 Example:
 [Valid example with all required fields]
-```
+````
 
 ## Quality Standards
 
